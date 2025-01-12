@@ -291,7 +291,7 @@
     #Tarjetas1.bg-full-width.bg-fondo-3
       .px-4.px-md-5.pb-md-3
         .row.justify-content-center.align-items-stretch.mb-5
-          .col-lg-3.mb-4(data-aos="zoom-in-up")
+          .col-lg-4.mb-4(data-aos="zoom-in-up")
             .bg-color-white.box-shadow.px-4.py-5.h-100
               img.mx-auto.d-block.mb-4(
                 src="@/assets/curso/tema1/9.svg"
@@ -301,7 +301,7 @@
               h5.mb-2.text-center Transparencia
               p.mb-0.text-center Comunicar con honestidad, para ganar la confianza del consumidor.
 
-          .col-lg-3.mb-4(data-aos="zoom-in-up")
+          .col-lg-4.mb-4(data-aos="zoom-in-up")
             .bg-color-white.box-shadow.px-4.py-5.h-100
               img.mx-auto.d-block.mb-4(
                 src="@/assets/curso/tema1/10.svg"
@@ -311,7 +311,7 @@
               h5.mb-2.text-center Sostenibilidad
               p.mb-0.text-center Implementar prácticas empresariales responsables, que minimicen el impacto ambiental.
 
-          .col-lg-3.mb-4(data-aos="zoom-in-up")
+          .col-lg-4.mb-4(data-aos="zoom-in-up")
             .bg-color-white.box-shadow.px-4.py-5.h-100
               img.mx-auto.d-block.mb-4(
                 src="@/assets/curso/tema1/11.svg"
@@ -321,17 +321,6 @@
               h5.mb-2.text-center Privacidad del cliente
               p.mb-0.text-center Proteger la información personal en un entorno digitalizado.
 
-          .col-lg-3.mb-4(data-aos="zoom-in-up")
-            .bg-color-white.box-shadow.px-4.py-5.h-100
-              img.mx-auto.d-block.mb-4(
-                src="@/assets/curso/tema1/10.svg"
-                alt="Agentes"
-                style="width: 90px"
-              )
-              h5.mb-2.text-center Agentes
-              p.mb-0.text-center Numerosos consumidores y productores.
-              p.mb-0.text-center Empresas precio-aceptantes.
-              p.mb-0.text-center Sin poder de mercado.
 
 
     .bg-full-width.bg-fondo-2.mb-5
