@@ -14,7 +14,7 @@
             h2.mb-4(data-aos="flip-up") Concepto del mercadeo
             p.mb-4(data-aos="fade-right") El mercadeo, como disciplina estratégica, desempeña un papel clave en la identificación y satisfacción de las necesidades del consumidor, generando valor para empresas, clientes y la sociedad. En el PDF #[b Concepto del mercadeo], se estudia su concepto, evolución y funciones esenciales, destacando cómo el análisis del comportamiento del consumidor, la creación de valor y las herramientas tecnológicas modernas, permiten a las organizaciones adaptarse a un entorno globalizado. A través de principios éticos y responsables, el mercadeo se presenta no solo como un motor de competitividad empresarial, sino también como un agente de impacto positivo en el desarrollo social y ambiental.
 
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_T1.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
