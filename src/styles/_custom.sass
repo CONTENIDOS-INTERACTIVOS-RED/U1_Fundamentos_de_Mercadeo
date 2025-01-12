@@ -17,13 +17,13 @@
 
 .bg-color
   &-1
-    background-color: #EAF8FD
+    background-color: #FFEED0
   &-2
-    background-color: #FFFBE8
+    background-color: #D2E3EC
   &-3
-    background-color: #F0E9F6
+    background-color: #EAD9E0
   &-4
-    background-color: #EAF8FD
+    background-color: #FEE7DC
   &-info
     background-color: #E8EEFD
   &-sintesis
@@ -52,10 +52,13 @@
 .bg-fondo
   &-1
     background-image: url("../assets/bg/bg1.png") !important
-    background-position: top
+    background-position-y: -120px
   &-2
-    // background-image: url("../assets/bg/bg2.png") !important
+    background-image: url("../assets/bg/bg2.png") !important
     background-position: bottom
+  &-3
+    background-image: url("../assets/bg/bg3.png") !important
+    background-position: top
   &-slider
     background-image: url("../assets/bg/bg-slider.png") !important
     background-position: bottom
@@ -173,7 +176,7 @@ $custom-card-img-height: 322px
   font-weight: 900
 
 .lista-ol--cuadro__vineta
-  background-color: $color-secundario
+  background-color: #FFC965
   color: #000
   min-width: 32px
   min-width: 28px
@@ -210,3 +213,32 @@ $custom-card-img-height: 322px
   a
     text-decoration: none
     color: $color-sistema-texto
+
+
+.lista-ul
+  li
+    display: flex !important
+    &::before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
+
+.lista-ul--color
+  li
+    display: flex !important
+    &::before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
+
+.lista-ol--cuadro
+  li
+    display: flex !important
+    &::before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
+
+
+.fa, .far, .fas
+  color: #9B4467 !important

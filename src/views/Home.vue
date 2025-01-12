@@ -22,11 +22,12 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 Desde los comienzos de la humanidad, la relación entre los principios éticos, el desarrollo económico y la sostenibilidad ha sido fundamental para garantizar un progreso equilibrado y equitativo. En un contexto globalizado, donde los desafíos éticos y ambientales son cada vez más evidentes, la bioética emerge como una herramienta clave para orientar decisiones económicas responsables que respeten tanto el medio ambiente como los derechos humanos.
+              p.descripcion.mb-4 El mercadeo es una herramienta esencial en un mundo globalizado y en constante cambio, permitiendo la creación de valor, la satisfacción del cliente y la construcción de relaciones sólidas entre marcas y consumidores. En esta primera unidad, se explorarán los principios fundamentales del mercadeo, su historia, funciones y evolución, destacando su impacto en las organizaciones y en la sociedad actual.
 
-              p.descripcion.mb-4 En esta unidad, profundizaremos en el rol de la bioética como pilar de la sostenibilidad en el desarrollo económico, explorando temas esenciales como la aplicación de principios éticos al uso de recursos naturales, la influencia de las políticas globales en la protección de los derechos humanos y la ética en la innovación tecnológica. 
-              
-              p #[b Prepárate para explorar los retos y oportunidades que la sostenibilidad y la bioética presentan en un mundo en constante evolución.]
+              p.descripcion.mb-4 A través de este recorrido, comprenderás cómo el mercadeo tradicional y digital se complementan, respondiendo a los desafíos del mercado con estrategias innovadoras y personalizadas.
+
+
+              p #[b ¡Prepárese para entender la importancia del mercadeo como motor de crecimiento y competitividad en un entorno dinámico!]
 
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")
@@ -74,7 +75,7 @@ export default {
   .home-main-title
     font-size: 18px
     font-weight: bold
-    color: $color-acento-contenido
+    color: $color-secundario
   .home-content
     background-color: white
   .info-section
@@ -149,12 +150,12 @@ export default {
 .iniciar-btn-container
   .iniciar-btn-text
     transition: all 0.25s ease-in-out
-    background-color: $color-acento-botones !important
+    background-color: #6DA4C3 !important
     color: #0B0A0A !important
   .icon
     transition: all 0.25s ease-in-out
     // background-color: #083E61 !important
-    background-color: darken($color-acento-botones, 30% ) !important
+    background-color: #3B596A !important
   &:hover
     .icon
       transform: scale(1.06)
