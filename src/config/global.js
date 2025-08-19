@@ -1,6 +1,6 @@
 export default {
   global: {
-    numeroUnidad: '3',
+    numeroUnidad: '1',
     tituloUnidad: 'Introducción al mercadeo',
   },
   menuPrincipal: {

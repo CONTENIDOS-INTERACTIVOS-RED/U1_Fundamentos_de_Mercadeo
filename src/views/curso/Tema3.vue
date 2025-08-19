@@ -134,6 +134,7 @@
       #t_3_1.titulo-segundo(data-aos="flip-up")
         h2 #[span 3.1] Importancia del mercadeo en un entorno globalizado
 
+      p(data-aos="fade-right").mb-5 En la actualidad, el mercadeo es un motor esencial para la competitividad empresarial, especialmente en mercados globalizados. La capacidad de entender las complejidades culturales y adaptar las estrategias en diferentes regiones, es clave para el éxito. Este enfoque global incluye:
 
       .bg-full-width.bg-fondo-4
         .px-4.px-md-5.pb-md-3

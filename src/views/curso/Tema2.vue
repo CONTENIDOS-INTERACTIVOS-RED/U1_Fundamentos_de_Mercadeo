@@ -206,7 +206,7 @@
                     h5 Ética y sostenibilidad
                     p El marketing contemporáneo también se enfrenta a la presión de adoptar prácticas responsables y sostenibles. Los consumidores modernos valoran la transparencia, el impacto ambiental reducido y los compromisos sociales, por lo que las empresas han comenzado a incluir estos valores en sus estrategias.
 
-                    p #[b Ejemplo:] Patagonia, conocida por su compromiso ambiental, promueve campañas como "Don't Buy This Jacket”, alentando a los consumidores a considerar la sostenibilidad, antes de realizar una compra
+                    p #[b Ejemplo:] Patagonia, conocida por su compromiso ambiental, promueve campañas como "Don't Buy This Jacket”, alentando a los consumidores a considerar la sostenibilidad, antes de realizar una compra.
                     
                   .bg-color-white.box-shadow.p-3(x="25%" y="34%" numero="4")
                     h5 Conexiones emocionales y humanas
